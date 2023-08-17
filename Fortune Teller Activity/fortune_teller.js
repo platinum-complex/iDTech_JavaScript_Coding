@@ -1,6 +1,6 @@
 // TODO: Create a variable called "fortune" and assign a number between 0 - 10.
 // YOUR CODE GOES HERE
-let fortune = 5;
+let fortune = 6;
 
 // TODO: Create a fortune teller game using conditional statements and comparison operators.
 // Conditions
